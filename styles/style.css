@@ -55,6 +55,17 @@ p {
   font-size: 24px;
 }
 
+.text-center h2 {
+  font-family: var(--heading-font-family);
+  font-weight: normal;
+  line-height: 1.5;
+  font-size: 24px;
+}
+.text-center {
+  background: var(--secondary-color);
+  text-align: center;
+  padding: 160px 20px;
+}
 .about-section {
   padding: 160px 20px;
 }
